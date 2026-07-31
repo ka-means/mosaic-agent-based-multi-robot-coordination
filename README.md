@@ -537,17 +537,19 @@ verification, experimental programme, statistical evidence, integrated
 findings, limitations, and reproducibility. The editable DOCX is available in
 `report/`.
 
-### LaTeX manuscript
+## Archival records
 
-[Compiled manuscript](paper/MOSAIC_Manuscript_v1.pdf)
+### Manuscript
 
-[LaTeX source](paper/main.tex)
+The associated MOSAIC manuscript is archived on Zenodo:
 
-Journal-neutral manuscript focused on the finding that structural coordination
-capacity, rather than incentive intensity, governs mission outcomes in the
-tested MOSAIC architecture. Appendix D contains direct NetLogo runtime and
-verification evidence.
+https://doi.org/10.5281/zenodo.21718799
 
+### Computational model
+
+The initial public MOSAIC release is archived on CoMSES Net.
+
+A revised release is currently undergoing computational-model peer review.
 ### Data reference
 ### Data reference
 
