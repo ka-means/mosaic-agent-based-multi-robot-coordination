@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Office temporary files
+~$*
+.~lock.*
+
+# Logs
+*.log
+
+# NetLogo temporary or autosave artefacts
+*.autosave
+*.tmp.nlogo
+*.tmp.nlogox
+
+# Local release archives
+*.zip
+
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
