@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: If you use MOSAIC, please cite the software using the metadata below.
+type: software
+title: 'MOSAIC: Mission-Oriented Self-Organization through Auctions, Incentives, and Coalitions'
+version: 0.4.0
+date-released: '2026-07-30'
+authors:
+- family-names: Molina
+  given-names: Katherin
+  affiliation: Independent Researcher, Australia
+- family-names: Holguin
+  given-names: Lorena
+  affiliation: Kahlo Group
+abstract: MOSAIC is an agent-based NetLogo model of decentralized mission coordination among
+  heterogeneous robots through local sensing, dynamic communication, auctions, incentives,
+  reputation, adaptive strategies, and temporary coalition formation.
+keywords:
+- agent-based modeling
+- NetLogo
+- multi-robot systems
+- multi-agent systems
+- decentralized coordination
+- coalition formation
+- task allocation
+- complex systems
+- BehaviorSpace
+license: Apache-2.0

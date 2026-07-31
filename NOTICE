@@ -1,0 +1,23 @@
+MOSAIC
+Copyright © 2026 Katherin Molina and Lorena Holguin.
+
+MOSAIC was initially developed by Katherin Molina as a final project for the
+Introduction to Agent-Based Modeling course offered through Complexity
+Explorer. It was subsequently extended and further developed in collaboration
+with Lorena Holguin, Software Engineer at Kahlo Group.
+
+Licensing:
+
+- NetLogo model and source code: Apache License 2.0
+- Original documentation, figures, datasets, analyses, and report materials:
+  Creative Commons Attribution 4.0 International
+
+See LICENSE, LICENSE-CODE, and LICENSE-DOCUMENTATION for the applicable terms.
+
+Institutional notice:
+
+- Complexity Explorer and the Santa Fe Institute are acknowledged only as the
+  academic context of the initial course project.
+- Kahlo Group is listed only as Lorena Holguin's professional affiliation.
+- None of these organisations funded, sponsored, supervised, validated, or
+  endorsed this project.

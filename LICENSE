@@ -1,0 +1,60 @@
+MOSAIC — Dual-Licensing Notice
+
+Copyright © 2026 Katherin Molina and Lorena Holguin.
+
+This repository uses a dual-licensing structure.
+
+1. MODEL AND SOURCE CODE
+
+The NetLogo model, source code, and code-specific implementation files are
+licensed under the Apache License, Version 2.0.
+
+The complete licence text is provided in:
+
+    LICENSE-CODE
+
+SPDX identifier:
+
+    Apache-2.0
+
+2. DOCUMENTATION, FIGURES, DATA, AND ANALYSIS MATERIALS
+
+The original documentation, figures, experimental datasets, processed data,
+summary files, analysis workbooks, and technical-report materials are licensed
+under the Creative Commons Attribution 4.0 International licence.
+
+The complete licence text is provided in:
+
+    LICENSE-DOCUMENTATION
+
+SPDX identifier:
+
+    CC-BY-4.0
+
+3. FILE-SCOPE RULE
+
+Unless a file states otherwise:
+
+- files under model/ are covered by Apache-2.0;
+- documentation, figures, data, analyses, and report materials are covered by
+  CC-BY-4.0;
+- third-party materials retain their original licences and attribution
+  requirements.
+
+4. ATTRIBUTION
+
+Reuse must preserve appropriate attribution to:
+
+    Katherin Molina and Lorena Holguin
+
+Suggested project citation metadata is provided in CITATION.cff.
+
+5. NO ENDORSEMENT
+
+The professional affiliation of Lorena Holguin with Kahlo Group is provided
+for identification purposes only. Kahlo Group did not fund, sponsor, supervise,
+validate, or endorse this project.
+
+Complexity Explorer and the Santa Fe Institute provided the academic context
+for the initial course project but do not own, sponsor, validate, or endorse
+the model, data, results, or conclusions.
