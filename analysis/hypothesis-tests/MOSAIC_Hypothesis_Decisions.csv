@@ -1,0 +1,8 @@
+Hypothesis,Primary result,Statistic,p_value,Decision,Interpretation
+H1,Completion above 90% benchmark,231.0,0.009813256387796994,Supported with caution,"Central tendency exceeds 90% and recorded invariants pass, although the bootstrap confidence interval for the mean overlaps 90%."
+H2,Leader-priority trade-off,27.763250883392224,4.072261317895647e-06,Supported,"Leader-priority raises inequality and unresolved auction rounds relative to equal-share, while completion does not differ by regime."
+H3,Communication-radius main effect,30.5,0.0006633220932766437,Supported,"Increasing radius from 4 to 8 improves completion, information coverage, coalition delay, overhead, and mission efficiency. Moderate temporary failure has no reliable completion effect."
+H4,Moderate-vs-extremes completion contrast,375.0,4.4581178338424065e-05,Supported,The 0.5 condition has higher completion and mission efficiency than both 0.0 and 1.0.
+H5,Nonlinear completion threshold,355.5,0.0014188798321383698,Supported,"The completion loss from 0.4 to 0.8 is disproportionately larger than the loss from 0.0 to 0.4, consistent with coalition-capacity overload."
+H6,Reputation × adaptation completion interaction,197.0,1.0,Not supported for primary outcome; secondary evidence,"The joint mechanisms do not reliably improve completion. Their interaction reduces coalition delay, indicating a process-level rather than mission-level benefit."
+H7,Completion versus payout divergence,86.51999999999998,1.224205575278281e-18,Supported,"Rewards rise monotonically and strongly with incentive weight, but completion does not differ reliably. The 0.25 and 0.50 conditions cost more while producing lower mean completion than zero."
